@@ -29,11 +29,11 @@ h1{
     color: white;
 }
 .top-banner{
-    background-image: url(/img/top-banner.png);
+    background-image: url(img/top-banner.png);
     background-repeat: no-repeat;
 }
 .smile-luffy{
-    background-image: url(/img/dream-bg.png);
+    background-image: url(img/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -51,7 +51,7 @@ h2{
     color: orange;
 }
 .Others{
-    background-image: url(/img/exp-bg.png);
+    background-image: url(img/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
     margin-bottom: 60px;
