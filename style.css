@@ -9,7 +9,7 @@ h1{
 .onepiece {
     color: orange;
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 100;
 }
@@ -36,4 +36,32 @@ section{
     background-image: url(/img/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.Info{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+       
+}
+h2{
+    font-size: 40px;
+    color: orange;
+}
+.Others{
+    background-image: url(/img/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    margin-bottom: 60px;
+}
+#pirates{
+    border-left: 7px solid tomato;
+}
+#marines{
+    border-left: 7px solid blue;
+}
+footer p{
+    text-align: center;
 }
